@@ -4,7 +4,7 @@ courselists:
   content: []
   website: ocw-www-site
 cover-image:
-  content: ''
+  content: 40873831-beae-4e04-982a-edf5b699a080
   website: ocw-www-site
 description: CC 1 Body
 featured-courses: []
