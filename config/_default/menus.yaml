@@ -1,0 +1,9 @@
+mainmenu:
+- identifier: 49eb3966-bfac-4370-83ba-d69e43a1b689
+  name: Navigation to CL 1
+  url: /course-lists/cl-1
+  weight: 10
+- identifier: ca473ece-65b6-4123-9c87-815ea5bfde08
+  name: Navigation to image1
+  url: /resources/310380973_647138376782731_8628828853236841484_n
+  weight: 20
